@@ -1,0 +1,5 @@
+﻿  JIPP1_projekt3.c
+C:\Users\usr\source\repos\JIPP1_projekt3\JIPP1_projekt3\JIPP1_projekt3.c(238,8): warning C4013: niezdefiniowany "time"; przy założeniu, że extern zwraca int
+  util_1.c
+  Generowanie kodu...
+  JIPP1_projekt3.vcxproj -> C:\Users\usr\source\repos\JIPP1_projekt3\x64\Debug\JIPP1_projekt3.exe
